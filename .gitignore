@@ -1,0 +1,6 @@
+tags
+*.old
+*.ignore
+build
+temp*
+
