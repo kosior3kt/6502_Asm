@@ -3,4 +3,6 @@ tags
 *.ignore
 build
 temp*
+.cache
+.*
 
