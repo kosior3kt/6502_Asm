@@ -5,7 +5,6 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "defines.h"
 #include "token.hpp"
 #include <fstream>
 

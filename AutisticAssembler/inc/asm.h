@@ -1,7 +1,6 @@
 #ifndef __AUTISTIC_ASM 
 #define __AUTISTIC_ASM
 
-#include "defines.h"
 #include "parser.h"
 #include "tokenizer.h"
 
